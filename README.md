@@ -15,19 +15,19 @@ Gathering information by interacting directly with the target’s systems or net
 
 - Open-source intelligence (OSINT): public web pages, social media, job postings that reveal software stacks or network structure.
 
-Public DNS/WHOIS records and certificate transparency logs.
+- Public DNS/WHOIS records and certificate transparency logs.
 
-Public repositories and documentation that reveal infrastructure or credentials by mistake.
+- Public repositories and documentation that reveal infrastructure or credentials by mistake.
 
 ## Active methods (conceptual)
 
-Service and port enumeration: interacting with network hosts to determine listening services and versions.
+- Service and port enumeration: interacting with network hosts to determine listening services and versions.
 
-Banner grabbing and protocol probing to identify software and versions.
+- Banner grabbing and protocol probing to identify software and versions.
 
-Active DNS queries or direct API calls that reveal configuration details.
+- Active DNS queries or direct API calls that reveal configuration details.
 
-Note: This document deliberately does not include commands, tool configurations, or step-by-step instructions for active scanning. Active reconnaissance can be abused; always operate within legal boundaries and with explicit authorization.
+## Note: This document deliberately does not include commands, tool configurations, or step-by-step instructions for active scanning. Active reconnaissance can be abused; always operate within legal boundaries and with explicit authorization.
 
 ## Ethical & Legal Considerations
 - Get written authorization before performing any active reconnaissance on systems you do not own.
